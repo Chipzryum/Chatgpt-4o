@@ -1,0 +1,8 @@
+pip install openai
+
+python main.py
+
+pip list
+
+main.py
+
